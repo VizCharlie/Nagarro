@@ -1,0 +1,18 @@
+Update: Test cases have been updated. Please submit your code again
+
+You are given a string, S. You can partition a string into a number of strings, such that no partitioned string is larger than K characters. Moreover, each partitioned string must have same characters. Find the maximum possible value of K.
+
+Constraints
+
+N<=10^6
+SAMPLE INPUT
+
+aaaabb
+
+SAMPLE OUTPUT
+
+4
+
+Explanation
+
+String is partitioned into “aaaa” and “bb” and hence value of k is 4.
